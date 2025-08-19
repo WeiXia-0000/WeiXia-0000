@@ -1,28 +1,26 @@
 # 👋 Hi, I'm Wei Xia
 
-SWE • Backend & Distributed Systems • Cloud • ML  
+SWE • Backend & Cloud • Web Development • ML  
 MCS @ UIUC • ex-Box (E-commerce Team)
 
-- Building reliable, scalable backends and clean, user-friendly experiences.
-- Interested in distributed systems, performance, and cloud-native architectures.
+- Building reliable backend services and clean, user-friendly applications.  
+- Interested in backend engineering, cloud-native applications, and performance optimization.  
 
 ---
 
 ## 🚀 Selected Projects
 - **Cloud-native Image Service** — serverless image processing & delivery on AWS  
-  *Lambda, API Gateway, DynamoDB, S3, CloudFront, Redis caching; baseline→CDN→Redis 三层优化*  
-  🔗 https://github.com/WeiXia-0000/Cloud-native-Image-Service
+  *Lambda, API Gateway, DynamoDB, S3, CloudFront, Redis caching; baseline → CDN → Redis 三层优化*  
+  🔗 https://github.com/WeiXia-0000/Cloud-native-Image-Service  
 
 - **FitLogger** — fitness tracking web app with video tutorials & Firebase auth  
-  *React, Node.js, Firebase, Heroku, MongoDB*
+  *React, Node.js, Firebase, Heroku, MongoDB*  
 
 - **Workoutstand** — custom workout planner  
-  *Java Spring Boot, MySQL, Docker*
+  *Java Spring Boot, MySQL, Docker*  
 
 - **Landmark Recognition** — deep learning for landmark classification  
-  *PyTorch, CUDA, metrics: precision/recall/GAP*
-
-> 💡 在你的 GitHub 主页上“Pin”以上 3–6 个仓库，HR 打开就能一眼看到核心项目。
+  *PyTorch, CUDA, metrics: precision/recall/GAP*  
 
 ---
 
@@ -41,25 +39,12 @@ MCS @ UIUC • ex-Box (E-commerce Team)
 
 ---
 
-## 📈 Activity & Stats
-<!-- 如果图片不显示，见文末“Stats 常见问题”。主题统一为 tokyonight，隐藏边框 -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WeiXia-0000&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WeiXia-0000&layout=compact&theme=tokyonight&hide_border=true)
-![Streak](https://streak-stats.demolab.com?user=WeiXia-0000&theme=tokyonight&hide_border=true)
+## 👔 About
+- Previously: **Box, Inc.** (E-commerce) — led A/B tests & UI changes; +15% conversion uplift  
+- I care about code readability, reliability, and pragmatic performance work.  
 
 ---
-
-## 👔 About
-- Previously: **Box, Inc.** (E-commerce) — led A/B tests & UI changes; +15% conversion uplift
-- I care about readability, observability, and pragmatic performance work.
 
 ## 🌐 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-weixia--uiuc-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weixia-uiuc)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-weixia--uiuc-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weixia-uiuc)  
 📧 weixia3@illinois.edu
-
----
-
-### ℹ️ Stats 常见问题（不显示/报错时）
-1) **用户名要匹配**：当前已用 `username=WeiXia-0000`。  
-2) **被限流**：这些服务用 GitHub API，偶尔会 rate limit。可在 URL 后加 `&cache_seconds=7200` 降低请求频率，或自建 `github-readme-stats`（可用 PAT 支持 `count_private=true`）。  
-3) **私有提交**：公共实例无法统计你的私有提交；需要自托管并配置 PAT 才能准确展示。
