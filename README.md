@@ -9,17 +9,16 @@ MCS @ UIUC • ex-Box (E-commerce Team)
 ---
 
 ## 🚀 Selected Projects
-- **Cloud-native Image Service** — serverless image processing & delivery on AWS  
-  *Lambda, API Gateway, DynamoDB, S3, CloudFront, Redis caching; baseline → CDN → Redis 三层优化*  
-  🔗 https://github.com/WeiXia-0000/Cloud-native-Image-Service  
+- 🔗 [**Cloud-native Image Service**](https://github.com/WeiXia-0000/Cloud-native-Image-Service) — serverless image processing & delivery on AWS  
+  *Lambda, API Gateway, DynamoDB, S3, CloudFront, Redis caching; baseline → CDN → Redis*  
 
-- **FitLogger** — fitness tracking web app with video tutorials & Firebase auth  
+- 🔗 [**FitLogger**](https://github.com/WeiXia-0000/FitLogger-Fitness-Tracking-Platform) — fitness tracking web app with video tutorials & Firebase auth  
   *React, Node.js, Firebase, Heroku, MongoDB*  
 
-- **Workoutstand** — custom workout planner  
+- 🔗 [**Workoutstand**](https://github.com/WeiXia-0000/Workoutstand) — custom workout planner  
   *Java Spring Boot, MySQL, Docker*  
 
-- **Landmark Recognition** — deep learning for landmark classification  
+- 🔗 [**Landmark Recognition**](https://github.com/WeiXia-0000/LandmarkRecognition) — deep learning for landmark classification  
   *PyTorch, CUDA, metrics: precision/recall/GAP*  
 
 ---
