@@ -18,9 +18,8 @@ MCS @ UIUC • ex-Box (E-commerce Team)
 - 🔗 [**Workoutstand**](https://github.com/WeiXia-0000/Workoutstand) — custom workout planner  
   *Java Spring Boot, MySQL, Docker*  
 
-- 🔗 [**Landmark Recognition**](https://github.com/WeiXia-0000/LandmarkRecognition) — deep learning for landmark classification  
+- 🔗 [**Google Landmark Recognition**](https://github.com/WeiXia-0000/Google-Landmark-Recognition) — deep learning for landmark classification  
   *PyTorch, CUDA, metrics: precision/recall/GAP*  
-
 ---
 
 ## 🛠️ Tech Stack
