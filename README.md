@@ -9,6 +9,9 @@ MCS @ UIUC • ex-Box (E-commerce Team)
 ---
 
 ## 🚀 Selected Projects
+- 🔗 [**BoxShogi**](https://github.com/WeiXia-0000/BoxShogi) — 5x5 Shogi variant with Box product-themed pieces  
+  *Java, full object-oriented design (board, pieces, players, engine); completed in 24h, passed all test cases, ranked top 3 in challenge → led to Box internship offer*  
+
 - 🔗 [**Cloud-native Image Service**](https://github.com/WeiXia-0000/Cloud-native-Image-Service) — serverless image processing & delivery on AWS  
   *Lambda, API Gateway, DynamoDB, S3, CloudFront, Redis caching; baseline → CDN → Redis*  
 
@@ -20,6 +23,8 @@ MCS @ UIUC • ex-Box (E-commerce Team)
 
 - 🔗 [**Google Landmark Recognition**](https://github.com/WeiXia-0000/Google-Landmark-Recognition) — deep learning for landmark classification  
   *PyTorch, CUDA, metrics: precision/recall/GAP*  
+
+- 🌐 [**Personal Website**](https://weixia.me) — portfolio
 ---
 
 ## 🛠️ Tech Stack
