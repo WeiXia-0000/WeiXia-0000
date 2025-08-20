@@ -50,4 +50,4 @@ MCS @ UIUC • ex-Box (E-commerce Team)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-weixia--uiuc-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weixia-uiuc)  
 📧 weixia3@illinois.edu  
 🌐 [weixia.me](https://weixia.me)  
-💻 [github.com/WeiXia-0000](https://github.com/WeiXia-0000
+💻 [github.com/WeiXia-0000](https://github.com/WeiXia-0000）
