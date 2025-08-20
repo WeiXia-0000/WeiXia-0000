@@ -23,8 +23,6 @@ MCS @ UIUC • ex-Box (E-commerce Team)
 
 - 🔗 [**Google Landmark Recognition**](https://github.com/WeiXia-0000/Google-Landmark-Recognition) — deep learning for landmark classification  
   *PyTorch, CUDA, metrics: precision/recall/GAP*  
-
-- 🌐 [**Personal Website**](https://weixia.me) — portfolio
 ---
 
 ## 🛠️ Tech Stack
@@ -50,4 +48,6 @@ MCS @ UIUC • ex-Box (E-commerce Team)
 
 ## 🌐 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-weixia--uiuc-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weixia-uiuc)  
-📧 weixia3@illinois.edu
+📧 weixia3@illinois.edu  
+🌐 [weixia.me](https://weixia.me)  
+💻 [github.com/WeiXia-0000](https://github.com/WeiXia-0000
