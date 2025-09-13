@@ -22,7 +22,10 @@ MCS @ UIUC • ex-Box (E-commerce Team)
   *Java Spring Boot, MySQL, Docker*  
 
 - 🔗 [**Google Landmark Recognition**](https://github.com/WeiXia-0000/Google-Landmark-Recognition) — deep learning for landmark classification  
-  *PyTorch, CUDA, metrics: precision/recall/GAP*  
+  *PyTorch, CUDA, metrics: precision/recall/GAP*
+
+- 🔗 [**Trading Engine**](https://github.com/WeiXia-0000/Trading-Engine) — high-performance C++ order book system with real-time web UI  
+  *C++17 core, WebSocket/HTTP API, React + TypeScript frontend, Ant Design components*
 ---
 
 ## 🛠️ Tech Stack
